@@ -12,8 +12,13 @@
 - #### 同类型解释性语言
        解释性语言有JavaScript / Perl /Shell等都是解释型语言。
        </br>
-       JavaScript:
+           JavaScript:
        </br>
-       Perl:
+           Perl:
        </br>
-       Shell:
+           Shell:
+- #### 对比同类优缺点
+       - 最为脚本语言对于新手来说入手快。
+       - Python提供了大量的第三方类库，在开发中更容易。
+       - 在编程过程中，作者只需要思考逻辑，在语法上Python实行多范式，编程跟简单了
+       - 更过的优缺点[具体请参考](https://www.cnblogs.com/rourou1/p/6039108.html)
