@@ -11,6 +11,9 @@
     &#8194;&#8194;Python features a `dynamic` type system and `automatic memory management`. It supports multiple programming paradigms, including `object-oriented`, `imperative`, `functional` and `procedural`, and has a large and comprehensive standard library.[28]
 - #### 同类型解释性语言
        解释性语言有JavaScript / Perl /Shell等都是解释型语言。
-        &#8194;&#8194;&#8194;&#8194;&#8194;&#8194;</br>JavaScript:
-        &#8194;&#8194;&#8194;&#8194;&#8194;&#8194;</br>Perl:
-        &#8194;&#8194;&#8194;&#8194;&#8194;&#8194;</br>Shell:
+       </br>
+       JavaScript:
+       </br>
+       Perl:
+       </br>
+       Shell:
