@@ -24,9 +24,9 @@
 - #### Python解决了什么问题或者说用Python解决某类问题更优雅
     -   爬虫
     -   Web开发
-    -   数据分析(优势更大)
+    -   数据分析(优势更大)
 - #### 快速上手视频
-    -   [8天深入理解Python](https://pan.baidu.com/s/1eRZAZ5K)
+    - [8天深入理解Python](https://pan.baidu.com/s/1eRZAZ5K)
 
 
 
