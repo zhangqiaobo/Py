@@ -5,7 +5,7 @@
 - #### 学习法则(老规矩上图)
 ![image](/image/Learn.png)
 
-- #### 维基百科([这次咱们出去看看](https://www.getlantern.org/en_US/))
+- #### 维基百科
     &#8194;&#8194;[Python](https://www.python.org/) is a widely used high-level programming language for general-purpose programming, created by [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) and first released in 1991. An `interpreted` language, Python has a design philosophy that emphasizes code readability (notably using whitespace indentation to delimit code blocks rather than curly brackets or keywords), and a syntax that allows programmers to express concepts in fewer lines of code than might be used in languages such as C++ or Java. It provides constructs that enable clear programming on both small and large scales.
     </br>
  &#8194;&#8194;Python features a `dynamic` type system and `automatic memory management`. It supports multiple programming paradigms, including `object-oriented`, `imperative`, `functional` and `procedural`, and has a large and comprehensive standard library.[28]
